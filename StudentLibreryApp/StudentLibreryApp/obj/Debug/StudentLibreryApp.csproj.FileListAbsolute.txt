@@ -1,0 +1,12 @@
+F:\ASP.Net\28-12-14\StudentLibreryApp\StudentLibreryApp\bin\Debug\StudentLibreryApp.exe.config
+F:\ASP.Net\28-12-14\StudentLibreryApp\StudentLibreryApp\bin\Debug\StudentLibreryApp.exe
+F:\ASP.Net\28-12-14\StudentLibreryApp\StudentLibreryApp\bin\Debug\StudentLibreryApp.pdb
+F:\ASP.Net\28-12-14\StudentLibreryApp\StudentLibreryApp\obj\Debug\StudentLibreryApp.csprojResolveAssemblyReference.cache
+F:\ASP.Net\28-12-14\StudentLibreryApp\StudentLibreryApp\obj\Debug\StudentLibreryApp.Form1.resources
+F:\ASP.Net\28-12-14\StudentLibreryApp\StudentLibreryApp\obj\Debug\StudentLibreryApp.Properties.Resources.resources
+F:\ASP.Net\28-12-14\StudentLibreryApp\StudentLibreryApp\obj\Debug\StudentLibreryApp.csproj.GenerateResource.Cache
+F:\ASP.Net\28-12-14\StudentLibreryApp\StudentLibreryApp\obj\Debug\StudentLibreryApp.exe
+F:\ASP.Net\28-12-14\StudentLibreryApp\StudentLibreryApp\obj\Debug\StudentLibreryApp.pdb
+D:\asp.net\28.12.14\StudentLibreryApp\StudentLibreryApp\bin\Debug\StudentLibreryApp.exe.config
+D:\asp.net\28.12.14\StudentLibreryApp\StudentLibreryApp\obj\Debug\StudentLibreryApp.exe
+D:\asp.net\28.12.14\StudentLibreryApp\StudentLibreryApp\obj\Debug\StudentLibreryApp.pdb

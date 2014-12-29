@@ -1,0 +1,9 @@
+G:\Hyder\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe.config
+G:\Hyder\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe
+G:\Hyder\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.pdb
+G:\Hyder\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csprojResolveAssemblyReference.cache
+G:\Hyder\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.BankAccountUI.resources
+G:\Hyder\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.Properties.Resources.resources
+G:\Hyder\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csproj.GenerateResource.Cache
+G:\Hyder\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.exe
+G:\Hyder\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.pdb

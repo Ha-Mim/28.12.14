@@ -1,0 +1,8 @@
+D:\asp.net\28.12.14\StudentLibreryApp\StudentLibreryApp\obj\Debug\StudentLibraryApp.StudentLibrary.resources
+D:\asp.net\28.12.14\StudentLibreryApp\StudentLibreryApp\obj\Debug\StudentLibreryApp.Properties.Resources.resources
+D:\asp.net\28.12.14\StudentLibreryApp\StudentLibreryApp\obj\Debug\StudentLibraryApp.csproj.GenerateResource.Cache
+D:\asp.net\28.12.14\StudentLibreryApp\StudentLibreryApp\obj\Debug\StudentLibreryApp.exe
+D:\asp.net\28.12.14\StudentLibreryApp\StudentLibreryApp\bin\Debug\StudentLibreryApp.exe.config
+D:\asp.net\28.12.14\StudentLibreryApp\StudentLibreryApp\bin\Debug\StudentLibreryApp.exe
+D:\asp.net\28.12.14\StudentLibreryApp\StudentLibreryApp\bin\Debug\StudentLibreryApp.pdb
+D:\asp.net\28.12.14\StudentLibreryApp\StudentLibreryApp\obj\Debug\StudentLibreryApp.pdb

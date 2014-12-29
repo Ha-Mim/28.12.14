@@ -1,0 +1,12 @@
+D:\asp.net\24.12.14\ResultApp\ResultApp\bin\Debug\ResultApp.exe.config
+D:\asp.net\24.12.14\ResultApp\ResultApp\bin\Debug\ResultApp.exe
+D:\asp.net\24.12.14\ResultApp\ResultApp\bin\Debug\ResultApp.pdb
+D:\asp.net\24.12.14\ResultApp\ResultApp\obj\Debug\ResultApp.csprojResolveAssemblyReference.cache
+D:\asp.net\24.12.14\ResultApp\ResultApp\obj\Debug\ResultApp.Properties.Resources.resources
+D:\asp.net\24.12.14\ResultApp\ResultApp\obj\Debug\ResultApp.ResultUI.resources
+D:\asp.net\24.12.14\ResultApp\ResultApp\obj\Debug\ResultApp.csproj.GenerateResource.Cache
+D:\asp.net\24.12.14\ResultApp\ResultApp\obj\Debug\ResultApp.exe
+D:\asp.net\24.12.14\ResultApp\ResultApp\obj\Debug\ResultApp.pdb
+G:\Hyder\ResultApp\ResultApp\bin\Debug\ResultApp.exe.config
+G:\Hyder\ResultApp\ResultApp\obj\Debug\ResultApp.exe
+G:\Hyder\ResultApp\ResultApp\obj\Debug\ResultApp.pdb
